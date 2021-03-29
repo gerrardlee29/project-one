@@ -104,7 +104,6 @@ p{
     width: 100%;
     margin: auto; 
     text-align: center;
-    color: #ffff;
     padding-top: 10px;
     padding: 10%;
     background-image: 
@@ -114,9 +113,16 @@ p{
     position: relative;
     
 }
-#faculty p {
+.container-fluid-faculty .container  h1 {
+     width: 100%;
+    margin: auto; 
+    text-align: center;
     color: #fff;
 }
-.padding {
-    padding: 80px 0;
+.container-fluid-faculty .team-row {
+    width: 100%;
+    margin: auto; 
+    text-align: center;
+
 }
+
