@@ -59,10 +59,10 @@ html, body {
      width: 100%;
      margin: auto;
      text-align: center;
-     padding-top: 20px;
-     padding-bottom: 10%;
-     text-size-adjust: 100%;
-     background-color: #63c4e2;
+     text-size-adjust: 0%;
+     background-color: #50abe7;
+     padding: 2%;
+     
 }
 h1{
      font-size: 36px;
@@ -92,7 +92,7 @@ p{
 /*------------------------ Carousel Slider CSS -----------------*/
 .carousel-slide {
     height: 100vh;
-    min-height: 300px;
+    min-height: 0px;
     background-size: cover;
     margin: auto; 
     
