@@ -23,9 +23,10 @@ body {
 /*----------  Header CSS ---------------- */
 .navbar-collapse {
   flex-basis: 100%;
-  flex-grow: 1;
+  flex-grow: 9;
   align-items: center;
-  display: none;
+  font-size: 150%;
+  
 }
 
 
@@ -44,6 +45,7 @@ body {
   font-weight: 500;
   -webkit-text-fill-color: #fddb19;
   font-family: "Mitr", sans-serif;
+  
 }
 .text-box p {
   margin: 10px 0 40px;
@@ -205,9 +207,10 @@ body {
 
 /*----------------------- Fitness Trainers CSS ----------- */
 .container-fluid-faculty {
+  height: 2800%;
+  margin: auto;
   width: 100%;
-  padding: 5%;
-  /* padding-top: 80%; */
+  padding-top: 30%; 
   padding-bottom: 10%;
   text-align: center;
   background-image: linear-gradient(rgb(84, 217, 250), rgba(8, 8, 8, 0.7)),
@@ -216,14 +219,22 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+
 .container-fluid-faculty .container h1 {
   width: 100%;
   margin: auto;
   text-align: center;
-  font-size: 100px;
+  font-size: 40px;
   font-weight: 800;
+  -webkit-text-fill-color: #080808;
+  padding-top: 80%;
+  padding-bottom: 0%;
+}
+.container h2{
+  font-size: 100px;
+  padding-top: 5%;
   -webkit-text-fill-color: #fddb19;
-  padding-top: 10%;
+  font-weight: 800;
 }
 .container-fluid-faculty .team-row {
   width: 100%;
@@ -264,7 +275,7 @@ body {
   font-size: 100px;
   font-weight: 800;
   -webkit-text-fill-color: #fddb19;
-  padding-top: 20%;
+  padding-top: 5%;
 }
 .testimonials .reviews p {
   font-size: 150%;
