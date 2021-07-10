@@ -11,7 +11,7 @@ body {
 
 /* -------- This is the background image and the positioning for it-------*/
 .header {
-  min-height: 520px;
+  min-height: 488px;
   width: 100%;
   background-image: 
   linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),url(./images/newworkout4.jpg);
@@ -25,10 +25,15 @@ body {
   flex-basis: 100%;
   flex-grow: 9;
   align-items: center;
-  font-size: 150%;
-  
+  font-size: 125%;
+  word-spacing: 3px;
+  margin-right: 2%;
 }
-
+.header .navbar-brand{
+  font-size: 165%;
+  font-weight: bolder;
+  margin-left: 2%;
+}
 
 /* ------------Middle Text Box plus text CSS ---------*/
 .text-box {
@@ -353,12 +358,15 @@ body {
     width: 100vw;
     padding: 20px 0;
     text-align: center;
+    padding-bottom: 1%;
 }
 .footer-bottom p{
     font-size: 20px;
     word-spacing: 2px;
+    -webkit-text-fill-color: #fddb19;
     text-transform: capitalize;
     text-align: center;
+    
 }
 .footer-bottom span{
     text-transform: uppercase;
