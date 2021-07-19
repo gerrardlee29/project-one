@@ -30,7 +30,7 @@ This is the main marketing website for Arena Fitness. It is designed to be respo
 ​
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
+        -   The two main colours used are blue, and yellow.
     -   #### Typography
         -   The Oswald font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Osawld is a clean font used frequently in programming, so it is both attractive and appropriate.
     -   #### Imagery
@@ -59,7 +59,7 @@ This is the main marketing website for Arena Fitness. It is designed to be respo
 ​
 ### Frameworks, Libraries & Programs Used
 ​
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+1. [Bootstrap 5.0.0:](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
@@ -115,37 +115,37 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         2. Underneath the attention title of the prices there is a call to action button that once clicked pops up a sign up form for the user to sign up to the gym.
 ​
     2. As a Returning Visitor, I want to find the best way to get in contact with the gym with any questions I may have.
+​    
+        1. The footer contains links to the gyms Facebook, Twitter and Instagram page as well as Youtube.
+        2. The footer also contains the phone number and address to the gym,
 ​
-        1. Here they can fill out the form on the page or are told that alternatively they can message the gym on social media.
-        2. The footer contains links to the gyms Facebook, Twitter and Instagram page as well as Youtube.
-        3. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-​
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
+    3. As a Returning Visitor, I want to find out who the fitness trainers are at the gym, and what type of physcial training they specialize in.
+        1. The Navbar has a tab for Fitness Trainers, and once clicked then the page will 
+        move to and target that setion of the website.
+        2. Alternatively, the user can also just scroll down to the section and see the information that way.
+        3. Once the user has come to the fitness trainers section of the website there the user can see who the trainers are, and also their professional area of expertise
 ​
 -   #### Frequent User Goals
 ​
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+    1. As a Frequent User, I want to check to see if there are any newly added group programs.
 ​
         1. The user would already be comfortable with the website layout and can easily click the banner message.
 ​
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
+    2. As a Frequent User, I want to check to see if the hours that the gym is open remain the same or if they have changed.
 ​
         1. The user would already be comfortable with the website layout and can easily click the blog link
 ​
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+    3. As a Frequent User, I want to find social medica links for gym.
         1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+        
+        
 ​
 ### Further Testing
 ​
 -   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
--   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+-   A large amount of testing was done to ensure that all pages were linking correctly. 
+
 ​
 ### Known Bugs
 ​
@@ -207,19 +207,26 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ​
 -   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
 ​
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-​
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+-   [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
 ​
 ### Content
 ​
--   All content was written by the developer.
+-   Navbar Bootstrap 5 | Bootstrap Navbar Tutorial-Adrian Twarog
+-   https://www.w3schools.com/css/default.asp
+-   Split screen into two sections responsive in HTML/CSS (5 Mins)-Mr Digital
+-   Create Fixed Header and Footer using Html and Css 2021. Header & footer-Web Tutorials
+-   How To Create A Website Using HTML And CSS Step By Step Website Tutorial-Web dev
+-   Flexbox design patterns you can use in your projects-Kevin Powell
+-   Responsive design made easy-Kevin Powell
+-   One Page Full Website Project For Practice. HTML & CSS Responsive Website-WEB CIFAR
+-   HTML & CSS for Beginners Part 13: Background Images-Kevin Powell
 ​
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+
 ​
 ### Media
 ​
--   All Images were created by the developer.
+-   All pictures are from (gymnation.com)
 ​
 ### Acknowledgements
 ​
