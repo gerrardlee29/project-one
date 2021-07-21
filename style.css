@@ -46,7 +46,7 @@ body {
   text-align: center;
 }
 .text-box h1 {
-  font-size: 50px;
+  /* font-size: 50px; */
   font-weight: 500;
   -webkit-text-fill-color: #fddb19;
   font-family: "Mitr", sans-serif;
@@ -54,7 +54,7 @@ body {
 }
 .text-box p {
   margin: 10px 0 40px;
-  font-size: 65px;
+  font-size: 40px;
   font-weight: bolder;
   font-family: "Farro", sans-serif;
   -webkit-text-fill-color: white;
@@ -236,7 +236,7 @@ body {
   padding-bottom: 0%;
 }
 .container h2{
-  font-size: 100px;
+  font-size: 60px;
   padding-top: 5%;
   -webkit-text-fill-color: #fddb19;
   font-weight: 800;
@@ -277,7 +277,7 @@ body {
 }
 .testimonials h1 {
   text-align: center;
-  font-size: 100px;
+  font-size: 58px;
   font-weight: 800;
   -webkit-text-fill-color: #fddb19;
   padding-top: 5%;
