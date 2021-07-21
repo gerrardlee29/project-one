@@ -1,5 +1,5 @@
 
-<h1 align="center">Code Institute Website</h1>
+<h1 align="center">ARENA FITNESS GYM</h1>
 ​
 [View the live project here.](https://codeinstitute.net)
 ​
@@ -10,23 +10,24 @@ This is the main marketing website for Arena Fitness. It is designed to be respo
 ## User Experience (UX)
 ​
 ### User stories
-​
-    -   #### First Time Visitor Goals
-​
+
+-   #### First Time Visitor Goals
+
+
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the gym.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
         3. As a First Time Visitor, I want to look for testimonials to understand what the people have to say about their experiences at the gym. 
 ​
-    -   #### Returning Visitor Goals
-​
+-   #### Returning Visitor Goals
+
         1. As a Returning Visitor, I want to find information about what the gym memberships plans and prices are.
         2. As a Returning Visitor, I want to find the best way to get in contact with the gym with any questions I may have.
         3. As a Returning Visitor, I want to find out who the fitness trainers are at the gym, and what type of physcial training they specialize in.
 ​
-    -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added group programs.
-        2. As a Frequent User, I want to check to see if the hours that the gym is open remain the same or if they have changed.
-        3. As a Frequent User, I want to find social medica links for gym.
+-   #### Frequent User Goals
+
+        1. As a Frequent User, I want to check to see if the hours that the gym is open remain the same or if they have changed.
+        2. As a Frequent User, I want to find social medica links for gym.
 ​
 -   ### Design
     -   #### Colour Scheme
