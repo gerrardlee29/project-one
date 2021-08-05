@@ -3,7 +3,7 @@
 ​
 [View the live project here.](https://codeinstitute.net)
 ​
-This is the main marketing website for Arena Fitness. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential new members and existing members.
+This is the main marketing website for Arena Fitness. It is designed to be responsibe making it easy to navigate for potential new members and existing members.
 ​
 <h2 align="center"><img src=""></h2>
 ​
@@ -74,8 +74,6 @@ This is the main marketing website for Arena Fitness. It is designed to be respo
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 ​
@@ -143,14 +141,14 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ​
 ### Further Testing
 ​
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge.
+-   The website was viewed on a variety of devices such as Desktop, Laptop.
 -   A large amount of testing was done to ensure that all pages were linking correctly. 
 
 ​
 ### Known Bugs
 ​
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
+-   On some mobile devices the Navbar pushes the size of screen out more than any of the other content on the page.
     -   A white gap can be seen to the right of the footer and navigation bar as a result.
 -   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
 ​
@@ -205,8 +203,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ## Credits
 ​
 ### Code
-​
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
 ​
 -   [Bootstrap5](https://getbootstrap.com/docs/5.0/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
