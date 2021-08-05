@@ -192,6 +192,7 @@ body {
   font-weight: bolder;
   font-family: "Barlow Semi Condensed", sans-serif;
   position: relative;
+  text-align: center;
 }
 .contentthree .col-2 {
   min-width: 50%;
